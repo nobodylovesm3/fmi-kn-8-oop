@@ -1,8 +1,6 @@
-# fmi-kn-8-oop
+# FMI Computer Science Group 8 Practicum, Spring 2019
 
-<a href="https://github.com/tozka/fmi-kn-8-oop" target="_blank">https://github.com/tozka/fmi-kn-8-oop</a> 
-
-> „Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (M.Fowler)“
+> **„Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (M.Fowler)“**
 
 
 ## First steps
