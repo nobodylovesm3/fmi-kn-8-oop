@@ -51,7 +51,7 @@ git pull --rebase origin master
 
 
 ## More materials
-* [Martin Flower Articles] (https://martinfowler.com/bliki/)
+* [Martin Flower Articles](https://martinfowler.com/bliki/)
 * [Refactoring Guru](https://refactoring.guru/)
 * [Guide: Writing Testable Code](http://misko.hevery.com/code-reviewers-guide/)
 
