@@ -43,8 +43,8 @@ git pull --rebase origin master
 
 ## Books (Advanced)
 - [Effective C++: 55 Specific Ways to Improve Your Programs and Designs by Scott Meyers](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)
+- [Design Patterns by Gang of Four](https://martinfowler.com/bliki/GangOfFour.html)
 * [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0132350882&pd_rd_r=CSRZ53FHHWHFCMCF6MDM&pd_rd_w=xYIco&pd_rd_wg=rBa0f&psc=1&refRID=CSRZ53FHHWHFCMCF6MDM)
-* [Design Patterns by Gang of Four](https://martinfowler.com/bliki/GangOfFour.html)
 * [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/gp/product/0735619670?ie=UTF8&tag=martinfowlerc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735619670)
 * [Refactoring: Improving the Design of Existing Code, by Martin Fowler, Kent Beck, et.](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1487499997&sr=1-1&keywords=Refactoring%3A+Improving+the+Design+of+Existing+Code) 
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software, by Eric Evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
