@@ -3,7 +3,7 @@
 > **„Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (M.Fowler)“**
 
 
-## First steps
+## Fork the repository
 1. Създайте си акаунт ако нямата. Използайте:  <a href="https://github.com/join" target="_blank">https://github.com/join</a> (в стъпка 2 изберете Free опцията, пропуснете ("skip") стъпка 3)
 2. Направете FORK (копиране) на репозиторито
    - Навигирайте до https://github.com/tozka/fmi-kn-8-oop 
