@@ -55,6 +55,11 @@ git pull --rebase origin master
 * [Refactoring Guru](https://refactoring.guru/)
 * [Guide: Writing Testable Code](http://misko.hevery.com/code-reviewers-guide/)
 
+## Grading
+
+- ООП Изпит 2 контролни (5-6 седмица, 10-11 седмица) , Домашно (мини-Проект): 2 x 1/2
+- Практикум Проект: 3 x 1/3
+
 
 ## Contacts
 
